@@ -4,6 +4,8 @@
 
 [![실제구동영상](http://img.youtube.com/vi/-7i6Ov0NDbg/0.jpg)](https://youtu.be/-7i6Ov0NDbg?t=0s) 
 
+위 사진을 클릭하면 소개영상으로 이동합니다. (https://youtu.be/-7i6Ov0NDbg?t=0s)
+
 코드는 어뷰징 문제가 있어서 여기에 올리지 않습니다. 
 
 네이버 카페의 특정 게시판에서 제목이 일부 포함된 글이 올라오면 자동으로 댓글을 다는 프로그램입니다.
