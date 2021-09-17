@@ -2,9 +2,9 @@
 
 ![sample](./image/sample.png)
 
-[![실제구동영상](http://img.youtube.com/vi/-7i6Ov0NDbg/0.jpg)](https://youtu.be/-7i6Ov0NDbg?t=0s) 
+[![실제구동영상](http://img.youtube.com/vi/d6qAujuIA2Q/0.jpg)](https://youtu.be/d6qAujuIA2Q?t=0s) 
 
-위 사진을 클릭하면 소개영상으로 이동합니다. (https://youtu.be/-7i6Ov0NDbg?t=0s)
+위 사진을 클릭하면 소개영상으로 이동합니다. (https://youtu.be/d6qAujuIA2Q?t=0s)
 
 코드는 어뷰징 문제가 있어서 여기에 올리지 않습니다. 
 
